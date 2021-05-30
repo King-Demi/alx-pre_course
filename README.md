@@ -1,2 +1,3 @@
-*Emphasize* _ALX repository_
-**Strong** __ Project __
+*Emphasize* _ALX  Git repository_
+**Strong*  _Project_
+updated
